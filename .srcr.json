@@ -1,0 +1,11 @@
+{
+  "publishGistUrl": {
+    "name": "blocks",
+    "url": "https://bl.ocks.org/${owner}/${gistId}"
+  },
+  "publishGitHubRepositoryUrl": {
+    "name": "rawgit",
+    "url": "https://cdn.rawgit.com/${owner}/${repo}/${commit}/index.html"
+  },
+  "saveGenerated": false
+}
