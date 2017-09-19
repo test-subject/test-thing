@@ -7,5 +7,15 @@
     "name": "rawgit",
     "url": "https://cdn.rawgit.com/${owner}/${repo}/${commit}/index.html"
   },
-  "saveGenerated": false
+  "saveGenerated": true,
+  "generated": {
+    "comment": "Objects in the 'generated' property automatically get generated (user-made changes will be written over).",
+    "tabs": [
+      "index.html",
+      "script.js",
+      ".srcr.json"
+    ],
+    "activeTab": ".srcr.json",
+    "primaryFile": "index.html"
+  }
 }
